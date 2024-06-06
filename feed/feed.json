@@ -2,8 +2,8 @@
 	"version": "https://jsonfeed.org/version/1.1",
 	"title": "Walter Augustine",
 	"language": "en",
-	"home_page_url": "https://walter-0.github.io/eleventy-base-blog/",
-	"feed_url": "https://walter-0.github.io/eleventy-base-blog/feed/feed.json",
+	"home_page_url": "https://walter-0.github.io/",
+	"feed_url": "https://walter-0.github.io/feed/feed.json",
 	"description": "My blog about life, school, web development, and stuff",
 	"author": {
 		"name": "Walter Augustine",
@@ -11,8 +11,8 @@
 	},
 	"items": [
 		{
-			"id": "https://walter-0.github.io/eleventy-base-blog/blog/hello-world/",
-			"url": "https://walter-0.github.io/eleventy-base-blog/blog/hello-world/",
+			"id": "https://walter-0.github.io/blog/hello-world/",
+			"url": "https://walter-0.github.io/blog/hello-world/",
 			"title": "Hello World",
 			"content_html": "<p>Hello world! :)</p>\n",
 			"date_published": "2024-06-05T00:00:00Z"

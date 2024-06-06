@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://walter-0.github.io/eleventy-base-blog/blog/hello-world/</loc>
+		<loc>https://walter-0.github.io/blog/hello-world/</loc>
 		<lastmod>2024-06-05</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://walter-0.github.io/eleventy-base-blog/about/</loc>
+		<loc>https://walter-0.github.io/about/</loc>
 		<lastmod>2024-06-06</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://walter-0.github.io/eleventy-base-blog/blog/</loc>
+		<loc>https://walter-0.github.io/blog/</loc>
 		<lastmod>2024-06-06</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://walter-0.github.io/eleventy-base-blog/</loc>
+		<loc>https://walter-0.github.io/</loc>
 		<lastmod>2024-06-06</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://walter-0.github.io/eleventy-base-blog/tags/</loc>
+		<loc>https://walter-0.github.io/tags/</loc>
 		<lastmod>2024-06-06</lastmod>
 	</url>
 </urlset>
