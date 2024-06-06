@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
+	<title>Walter Augustine</title>
+	<subtitle>My blog about life, school, web development, and stuff</subtitle>
+	<link href="https://walter-0.github.io/eleventy-base-blog/feed/feed.xml" rel="self"/>
+	<link href="https://walter-0.github.io/eleventy-base-blog/"/>
+	<updated>2024-06-05T00:00:00Z</updated>
+	<id>https://walter-0.github.io/</id>
+	<author>
+		<name>Walter Augustine</name>
+		<email>youremailaddress@example.com</email>
+	</author>
+	
+	<entry>
+		<title>Hello World</title>
+		<link href="https://walter-0.github.io/eleventy-base-blog/blog/hello-world/"/>
+		<updated>2024-06-05T00:00:00Z</updated>
+		<id>https://walter-0.github.io/eleventy-base-blog/blog/hello-world/</id>
+		<content type="html">&lt;p&gt;Hello world! :)&lt;/p&gt;
+</content>
+	</entry>
+</feed>
